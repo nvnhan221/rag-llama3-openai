@@ -24,10 +24,9 @@ This project demonstrates a private Retrieval-Augmented Generation (RAG) chatbot
 ### 1. Clone and prepare environment
 
 ```bash
-unzip rag_llama3_openai.zip
-cd rag_llama3_openai
+cd rag-llama3-openai
 
-python3.10 -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```

@@ -59,7 +59,6 @@ index_store/
 *.jsonl
 *.zip
 *.tar.gz
-data/
 datasets/
 
 # IDE
